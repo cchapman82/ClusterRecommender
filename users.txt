@@ -1,0 +1,3 @@
+UserProfile{name='joe', interested=ARSENAL.ZOO.ALMIGHTY.', ratedDocs=534.82.', password='dp'}
+UserProfile{name='bob', interested=FIRESIDE.ANGLOU.', ratedDocs=', password='heyo'}
+UserProfile{name='christopher', interested=ZIMBABWE.AFRICANDOMINATED.', ratedDocs=109.228.463.', password='trying'}
